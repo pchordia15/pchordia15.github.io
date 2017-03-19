@@ -31,9 +31,10 @@ body a{
 }
 .header h1{
 	color: #1a2733;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size: 3.5em;
-    font-weight: 400;
+    font-weight: 550;
+    font-family: "Comic Sans MS";
     margin-top: 7em;
     letter-spacing: 10px;
     margin-bottom:20px;
@@ -43,7 +44,7 @@ body a{
     text-transform: uppercase;
     font-size:2em;
     font-weight: 400;
-    letter-spacing: 10px;
+    letter-spacing: 5px;
 }
 .header p{
     color: #1a2733;
