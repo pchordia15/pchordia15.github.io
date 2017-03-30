@@ -100,7 +100,7 @@ body a{
   color: #555;
   font-size: 1em;
   line-height: 1.5em;
-  width: 50%;
+  width: 80%;
   margin: 0 auto 3em auto;
   text-align: center;
   font-weight: 400;
@@ -697,6 +697,7 @@ ul.span_1 {
 }
 .header {
   min-height: 370px;
+  background-size: contain;
 }
 .header p {
   margin: 2em auto 0;
@@ -738,6 +739,7 @@ ul.f_social li {
 }
 .header {
   min-height: 330px;
+  background-size: contain;
 }
 .tz-title-3 {
   font-size: 20px;
