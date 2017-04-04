@@ -464,8 +464,9 @@ ul.span_1 li{
 }
 
 .c_social{
-  margin: 0 0 0 20em;
+  margin: 0 0 0 0;
   list-style: none;
+  text-align: center;
 }
 .c_social li{
 	margin-bottom:2px;
