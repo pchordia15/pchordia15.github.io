@@ -460,105 +460,20 @@ ul.span_1{
 }
 ul.span_1 li{
 	width: 19%;
-  display: inline-block;
-}
-.grid_2 input[type="text"] {
-  padding: 15px 0;
-  width:80%;
-  font-size: 0.8125em;
-  margin:10px 0;
-  color: #999;
-  background: none;
-  outline: none;
-  background: none;
-  border-bottom: 1px solid #D4D4D4;
-  border-top: none;
-  border-left: none;
-  border-right: none;
-}
-.grid_2 textarea {
-  background:none;
   display: block;
-  width:80%;
-  padding: 15px 0;
-  border-bottom: 1px solid #D4D4D4;
-  border-top: none;
-  border-left: none;
-  border-right: none;
-  outline: none;
-  margin: 3px 0;
-  font-size: 0.8125em;
-  color: #999;
-  height:100px;
-  resize: none;
 }
-.grid_2 input[type="submit"] {
-  -webkit-appearance: none;
-  cursor: pointer;
-  border: none;
-  outline: none;
-  background: none;
-  color:#fff;
-  background:#f6c80c;
-  padding:10px 40px;
-  margin-top:2em;
-}
-.grid_2 input[type="submit"]:hover{
-	background:#000;
-}
+
 .c_social{
-  padding: 0;
-  margin: 3em 0 0 0;
+  margin: 0 0 0 20em;
   list-style: none;
 }
 .c_social li{
 	margin-bottom:2px;
 }
-i.behance {
-  width: 160px;
-  height: 45px;
-  display: block;
-  background: url(../images/social.png)no-repeat 52px -70px #0e9ef9;
+.c_social a{
+  padding:15px;
 }
-i.behance:hover{
-  background: url(../images/social.png)no-repeat 52px -70px #0290EA;
-}
-i.twitter {
-  width: 160px;
-  height: 45px;
-  display: block;
-  background: url(../images/social.png)no-repeat 55px -119px #51d7fd;
-}
-i.twitter:hover{
-  background: url(../images/social.png)no-repeat 55px -119px #21cdfe;
-}
-i.dribble {
-  width: 160px;
-  height: 45px;
-  display: block;
-  background: url(../images/social.png)no-repeat 55px -163px #fa4e9b;
-}
-i.dribble:hover {
-  background: url(../images/social.png)no-repeat 55px -163px #FD2083;
-}
-i.facebook{
-  width: 160px;
-  height: 45px;
-  display: block;
-  background: url(../images/social.png)no-repeat 55px -210px #2a63ab;
-}
-i.facebook:hover{
-  background: url(../images/social.png)no-repeat 55px -210px #1353A4;
-}
-i.google{
-  width: 160px;
-  height: 45px;
-  display: block;
-  background: url(../images/social.png)no-repeat 55px -256px #f13131;
-}
-i.google:hover{
-  background: url(../images/social.png)no-repeat 55px -256px #E50303;
-}
+
 .copy{
   background:#c9c9ca;
   padding:2em 0;
