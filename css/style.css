@@ -228,6 +228,7 @@ a.play-icon span {
   letter-spacing: 1px;
   line-height: 2em;
   margin: 1em 0 0 0;
+  text-align: justify;
 }
 .team-grid h4{
   color: #999;
@@ -728,4 +729,27 @@ ul.f_social li {
   position: relative;
   text-align: center;
   letter-spacing: 2px;
+}
+
+.work-list h3{
+  color: #3c3c3c;
+  font-size: 1.1em;
+  font-weight: 400;
+  padding-left: 65px;
+  line-height: 2em;
+  text-align: justify;
+  margin: 1em 0 0 0;
+}
+.work-list h2{
+  color: #3c3c3c;
+  font-size:1.7em;
+  text-transform: capitalize;
+  float: left;
+  margin-left: 65px;
+  font-weight: 500;
+}
+
+#job-title
+{
+  color:#ec5f5f;
 }
