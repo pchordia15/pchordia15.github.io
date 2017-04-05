@@ -245,7 +245,7 @@ a.play-icon span {
   text-transform: uppercase;
   color: #3c3c3c;
   font-size: 1.2em;
-  font-weight: 600;
+  font-weight: 900;
   margin: 2em 0 1em;
 }
 .box_1:hover h3{
@@ -274,7 +274,7 @@ a.play-icon span {
   font-size: 0.85em;
   line-height: 1.8em;
   text-align: center;
-  font-weight: 400;
+  font-weight: 700;
 }
 .content_middle_bottom h4 {
   color: #555;
@@ -286,7 +286,7 @@ a.play-icon span {
   font-weight: 400;
 }
 .content_middle_bottom{
-  padding:8em 0 0 0;
+  padding:8em 0 8em 0;
 }
 /***** Slider *****/
 .index-banner{
@@ -425,7 +425,7 @@ h3.client_head{
     width: 100%;
 }
 .contact {
-  margin-bottom: 8em;
+  margin-bottom: 4em;
 }
 ul.span_1{
 	margin: 7em 0 0;
